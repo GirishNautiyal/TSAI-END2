@@ -1,0 +1,5 @@
+.DS_STORE
+.pytest_cache
+.coverage
+__pycache__
+.vscode/*

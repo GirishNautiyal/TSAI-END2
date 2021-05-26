@@ -2,10 +2,10 @@
 
 We used Excel to understand :-
 <ul>
-  <li><a href="#step1"> How Back propagation works? </a></li>
+  <li><a href="#step1"> How the formula for each neuron is calculated? </a></li>
   <li><a href="#step2"> How the gradients are calculated with respect to each weight? </a></li>
-  <li><a href="#step3"> How the learning rate effects the ability to optimize the loss faster? </a></li>
-  <li><a href="#step4"> How the weights are dynamically updated? </a></li>
+  <li><a href="#step3"> How the weights are dynamically updated? </a></li>
+  <li><a href="#step4"> How the learning rate effects the ability to optimize the loss faster? </a></li>
 </ul>
 
 <b> You can refer to the final excel sheet in the folder </b> <br>
